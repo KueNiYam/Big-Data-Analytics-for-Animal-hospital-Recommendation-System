@@ -1,0 +1,2133 @@
+02-932:OL
+-7582:NR
+서울:NNG
+노원구:NNP
+상계:NNG
+3:NR
+동:NNM
+76-4:OL
+번지:NNG
+URLhttp:OL
+//:SW
+blog:OL
+.:SF
+findshop:OL
+.:SF
+co:OL
+.:SF
+kr:OL
+/:SP
+당:NNG
+고개:NNG
+동물:NNG
+병원:NNG
+영업:NNG
+10:NR
+00:NR
+~:SO
+20:NR
+00:NR
+휴무일:NNG
+요일:NNG
+편의:NNG
+예약:NNG
+카드:NNG
+보다:JKM
+다양:NNG
+하:XSV
+ㄴ:ETD
+정보:NNG
+와:JKM
+혜택:NNG
+을:JKO
+보시:VV
+ㄹ:ETD
+수:NNB
+있:VV
+습니다:EFN
+2018:NR
+.:SF
+4:NR
+.:SF
+27:NR
+.:SF
+9:NR
+00:NR
+노원구:NNP
+는:JX
+ :SW
+지나:VV
+ㄴ:ETD
+ :SW
+5:NR
+년:NNB
+간:NNG
+ :SW
+서울:NNG
+에서:JKM
+ :SW
+인구:NNG
+ :SW
+감소:NNG
+가:JKS
+ :SW
+가장:MAG
+ :SW
+많:VA
+았:EPT
+더:EPT
+ㄴ:ETD
+ :SW
+지역:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+한:NNG
+ :SW
+때:NNG
+ :SW
+인천:NNG
+의:JKG
+ :SW
+부평구:NNP
+에:JKM
+도:JX
+ :SW
+인구:NNG
+수가:NNG
+ :SW
+밀리:VV
+었:EPT
+을:ETD
+ :SW
+정도:NNG
+로:JKM
+ :SW
+인구:NNG
+ :SW
+감소:NNG
+가:JKS
+ :SW
+지속:NNG
+되:XSV
+고:ECE
+ :SW
+있:VV
+다:EFN
+.:SF
+노원구:NNP
+의:JKG
+ :SW
+인구:NNG
+ :SW
+감소:NNG
+가:JKS
+ :SW
+크:VA
+었:EPT
+다는:ETD
+ :SW
+것:NNB
+은:JX
+ :SW
+몇:NR
+ :SW
+년:NNB
+간:NNG
+ :SW
+재개발:NNG
+로:JKM
+ :SW
+인해:NNG
+ :SW
+다른:MDT
+ :SW
+지역:NNG
+으로:JKM
+ :SW
+이:NNG
+주한:NNG
+ :SW
+주민:NNG
+들:XSN
+이:JKS
+ :SW
+많:VA
+았:EPT
+다는:ETD
+ :SW
+것:NNB
+이:VCP
+다:EFN
+.:SF
+ :SW
+서울:NNG
+의:JKG
+ :SW
+마지막:NNG
+ :SW
+달:NNG
+동네:NNG
+인:NNG
+ :SW
+노원구:NNP
+ :SW
+백사:NNG
+마을:NNG
+과:JKM
+ :SW
+월계동:NNP
+ :SW
+등:NNB
+ :SW
+재개발:NNG
+이:JKS
+ :SW
+현재:NNG
+ :SW
+진:NNG
+행:NNG
+ :SW
+중:NNG
+에:JKM
+ :SW
+있:VV
+지만:ECE
+ :SW
+아직:MAG
+까:VV
+지:ECD
+ :SW
+첫:MDT
+ :SW
+삽:NNG
+을:JKO
+ :SW
+뜨:VA
+지:ECD
+ :SW
+못하:VX
+었:EPT
+다:EFN
+.:SF
+아파트:NNG
+ :SW
+가격:NNG
+도:JX
+ :SW
+지속적:NNG
+으로:JKM
+ :SW
+하락:NNG
+하:XSV
+면서:ECE
+ :SW
+인구:NNG
+ :SW
+감소세:NNG
+를:JKO
+ :SW
+회복:NNG
+하:XSV
+지:ECD
+ :SW
+못하:VX
+고:ECE
+ :SW
+있:VV
+지만:ECE
+,:SP
+ :SW
+그러:VV
+ㅁ에도:ECD
+ :SW
+불구하:VV
+고:ECE
+ :SW
+동물:NNG
+병원:NNG
+은:JX
+ :SW
+꾸준히:MAG
+ :SW
+증가:NNG
+하:XSV
+고:ECE
+ :SW
+있:VV
+다:EFN
+.:SF
+ :SW
+최근:NNG
+에:JKM
+도:JX
+ :SW
+1:NR
+개:NNM
+소의:NNG
+ :SW
+동물:NNG
+병원:NNG
+이:JKS
+ :SW
+노원구:NNP
+에:JKM
+ :SW
+개원:NNG
+하:XSV
+었:EPT
+을:ETD
+ :SW
+정도:NNG
+로:JKM
+ :SW
+수의사:NNG
+들:XSN
+의:JKG
+ :SW
+관심:NNG
+을:JKO
+ :SW
+받:VV
+고:ECE
+ :SW
+있:VV
+는:ETD
+ :SW
+지역:NNG
+이:VCP
+다:EFN
+.:SF
+노원구:NNP
+의:JKG
+ :SW
+동물:NNG
+병원:NNG
+은:JX
+ :SW
+공릉동:NNP
+,:SP
+ :SW
+상:NNG
+계동:NNP
+,:SP
+ :SW
+월계동:NNP
+,:SP
+ :SW
+중계동:NNP
+ :SW
+4:NR
+곳:NNG
+에:JKM
+ :SW
+몰리:VV
+어:ECS
+ :SW
+있:VV
+다:EFN
+.:SF
+ :SW
+4:NR
+개:NNM
+ :SW
+지역:NNG
+ :SW
+모두:NNG
+ :SW
+대:NNG
+단지:NNG
+ :SW
+아파트:NNG
+가:JKS
+ :SW
+많:VA
+은:ETD
+ :SW
+지역:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+중계동:NNP
+과:JKM
+ :SW
+상:NNG
+계동:NNP
+이:JKS
+ :SW
+90:NR
+년대:NNM
+에:JKM
+ :SW
+개:NNG
+원한:NNG
+ :SW
+동물:NNG
+병원:NNG
+이:JKS
+ :SW
+많:VA
+다면:ECE
+,:SP
+ :SW
+공릉동:NNP
+과:JKM
+ :SW
+월계동:NNP
+은:JX
+ :SW
+비교:NNG
+적:XSN
+ :SW
+최근:NNG
+에:JKM
+ :SW
+개:NNG
+원한:NNG
+ :SW
+동물:NNG
+병원:NNG
+이:JKS
+ :SW
+많:VA
+은:ETD
+ :SW
+것:NNB
+이:JKS
+ :SW
+특징:NNG
+이:VCP
+다:EFN
+.:SF
+노원구:NNP
+ :SW
+상:NNG
+계동:NNP
+은:JX
+ :SW
+80:NR
+년대:NNM
+부터:JX
+ :SW
+개발:NNG
+이:JKS
+ :SW
+이루:VV
+어:ECS
+지:VXV
+었:EPT
+다:EFN
+.:SF
+ :SW
+그:MDT
+ :SW
+중:NNG
+에서:JKM
+도:JX
+ :SW
+상:NNG
+계동:NNP
+ :SW
+주공:NNG
+아파트:NNG
+는:JX
+ :SW
+16:NR
+단지:NNG
+에:JKM
+ :SW
+총:MDT
+ :SW
+4:NR
+만:JX
+여구:NP
+가:JKS
+ :SW
+거주:NNG
+하:XSV
+고:ECE
+ :SW
+있:VV
+는:ETD
+ :SW
+대:NNG
+단위:NNG
+ :SW
+아파트:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+30:NR
+년:NNM
+ :SW
+이상:NNG
+ :SW
+노:NNG
+후:NNG
+되:XSV
+ㄴ:ETD
+ :SW
+아파트:NNG
+지만:XR
+ :SW
+현재:NNG
+ :SW
+재:XPN
+건축:NNG
+은:JX
+ :SW
+8:NR
+단지:NNG
+만:JX
+ :SW
+진행:NNG
+되:XSV
+고:ECE
+ :SW
+있:VV
+다:EFN
+.:SF
+ :SW
+용적률:NNG
+이:JKS
+ :SW
+높:VA
+아:ECD
+ :SW
+재:XPN
+건축:NNG
+을:JKO
+ :SW
+해도:NNG
+ :SW
+수익성:NNG
+이:JKS
+ :SW
+나지:NNG
+ :SW
+않:VXV
+는다는:ETD
+ :SW
+이유:NNG
+로:JKM
+ :SW
+건설:NNG
+업체:NNG
+들:XSN
+의:JKG
+ :SW
+관심:NNG
+이:JKS
+ :SW
+많:VA
+지:ECD
+ :SW
+않:VXV
+기:ETN
+ :SW
+때문:NNB
+이:VCP
+다:EFN
+.:SF
+ :SW
+주공:NNG
+아파트:NNG
+뿐:JX
+만:JX
+ :SW
+아니:VCN
+라:ECD
+ :SW
+상:NNG
+계동:NNP
+ :SW
+아파트:NNG
+들:XSN
+ :SW
+대부분:NNG
+이:JKS
+ :SW
+갖:VV
+고:ECE
+ :SW
+있:VV
+는:ETD
+ :SW
+고민:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+현재:NNG
+ :SW
+상:NNG
+계동:NNP
+에:JKM
+는:JX
+ :SW
+3:NR
+만:NR
+ :SW
+7,800:NR
+여:NNG
+ :SW
+가구:NNG
+가:JKS
+ :SW
+건축:NNG
+되:XSV
+ㄴ:ETD
+ :SW
+지:NNB
+ :SW
+30:NR
+년:NNB
+이:JKS
+ :SW
+넘:VV
+은:ETD
+ :SW
+노:NNG
+후:NNG
+ :SW
+아파트:NNG
+들:XSN
+로:NNG
+ :SW
+이루:VV
+어:ECS
+지:VXV
+었:EPT
+다:EFN
+.:SF
+상계동:NNP
+은:JX
+ :SW
+노:NNG
+원:XSN
+역:NNG
+을:JKO
+ :SW
+중심:NNG
+으로:JKM
+ :SW
+대:NNG
+단지:NNG
+ :SW
+아파트:NNG
+와:JKM
+ :SW
+노원구:NNP
+청:NNG
+,:SP
+ :SW
+오피스텔:NNG
+ :SW
+등:NNB
+이:JKS
+ :SW
+있:VV
+다:EFN
+.:SF
+ :SW
+중심:NNG
+ :SW
+상권:NNG
+은:JX
+ :SW
+지하철:NNG
+ :SW
+4:NR
+호:NNB
+선:NNG
+을:JKO
+ :SW
+탈:NNG
+ :SW
+수:NNG
+ :SW
+있:VV
+는:ETD
+ :SW
+노:NNG
+원:XSN
+역:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+지하철:NNG
+을:JKO
+ :SW
+제외:NNG
+하:XSV
+고는:ECE
+ :SW
+교통:NNG
+ :SW
+상황:NNG
+이:JKS
+ :SW
+좋:VA
+은:ETD
+ :SW
+지역:NNG
+은:JX
+ :SW
+아니:VV
+다:EFN
+.:SF
+ :SW
+경유:NNG
+ :SW
+버스:NNG
+가:JKS
+ :SW
+많:VA
+은:ETD
+ :SW
+노:NNG
+원:XSN
+역:NNG
+ :SW
+주변:NNG
+은:JX
+ :SW
+상:NNG
+습:NNG
+ :SW
+정:NNG
+체:NNG
+ :SW
+지역:NNG
+으로:JKM
+ :SW
+불리:VV
+고:ECE
+ :SW
+있:VV
+으며:ECE
+,:SP
+ :SW
+그:MDT
+ :SW
+외의:NNG
+ :SW
+지역:NNG
+에:JKM
+는:JX
+ :SW
+간선:NNG
+버스:NNG
+가:JKS
+ :SW
+그:MDT
+리:NNG
+ :SW
+많:VA
+지:ECD
+ :SW
+않:VXV
+다:EFN
+.:SF
+ :SW
+지하철:NNG
+ :SW
+7:NR
+호:NNB
+선:NNG
+을:JKO
+ :SW
+탈:NNG
+ :SW
+수:NNG
+ :SW
+있:VV
+는:ETD
+ :SW
+상계:NNG
+역:NNG
+ :SW
+상권:NNG
+은:JX
+ :SW
+젊:VA
+은:ETD
+ :SW
+이:NNG
+들:XSN
+이:JKS
+ :SW
+찾:VA
+으면서:ECE
+ :SW
+살아나:VV
+고:ECE
+ :SW
+있:VV
+지만:ECE
+ :SW
+다른:MDT
+ :SW
+지역:NNG
+에:JKM
+ :SW
+비하:VV
+어서:ECD
+는:JX
+ :SW
+그다지:MAG
+ :SW
+활성화:NNG
+ :SW
+되:VV
+어:ECS
+ :SW
+있:VV
+지:ECD
+ :SW
+않:MAG
+은:JX
+ :SW
+편이:NNG
+이:VCP
+다:EFN
+.:SF
+상계동:NNP
+에서:JKM
+ :SW
+주목:NNG
+하:XSV
+어야:ECD
+ :SW
+하:VV
+ㄹ:ETD
+ :SW
+지역:NNG
+은:JX
+ :SW
+바로:MAG
+ :SW
+상계:NNG
+뉴:NNG
+타운:NNG
+ :SW
+개발:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+2020:NR
+년:NNB
+ :SW
+입:NNG
+주:NNG
+를:JKO
+ :SW
+시작하:VV
+는:ETD
+ :SW
+상계:NNG
+역:NNG
+ :SW
+센트럴:NNG
+아파트:NNG
+를:JKO
+ :SW
+시작:NNG
+으로:JKM
+ :SW
+지속:NNG
+적인:NNG
+ :SW
+개발:NNG
+이:JKS
+ :SW
+이루:VV
+어:ECS
+지:VXV
+고:ECE
+ :SW
+있:VV
+다:EFN
+.:SF
+ :SW
+상계:NNG
+뉴:NNG
+타운:NNG
+은:JX
+ :SW
+상계:NNG
+역과:NNG
+ :SW
+당:NNG
+고개:NNG
+역:NNG
+을:JKO
+ :SW
+도보:NNG
+로:JKM
+ :SW
+이용:NNG
+하:XSV
+ㄹ:ETD
+ :SW
+수:NNG
+ :SW
+있:VV
+어:ECD
+ :SW
+다른:MDT
+ :SW
+아파트:NNG
+ :SW
+단지:NNG
+에:JKM
+ :SW
+비:NNG
+하:XSV
+어:ECS
+ :SW
+교통:NNG
+이:JKS
+ :SW
+편리:NNG
+하:XSA
+다:EFN
+.:SF
+ :SW
+노원구:NNP
+ :SW
+인구:NNG
+가:JKS
+ :SW
+몇:NR
+ :SW
+년:NNG
+째:XSN
+ :SW
+감소:NNG
+하:XSV
+고:ECE
+ :SW
+있:VV
+지만:ECE
+ :SW
+상계:NNG
+뉴:NNG
+타운:NNG
+ :SW
+개발:NNG
+이:JKS
+ :SW
+완료:NNG
+되:XSV
+면:ECE
+ :SW
+16:NR
+년:NNB
+만:NNB
+에:JKM
+ :SW
+노원구:NNP
+ :SW
+인구:NNG
+가:JKS
+ :SW
+증가:NNG
+하:XSV
+ㄹ:ETD
+ :SW
+수:NNG
+ :SW
+있:VV
+을:ETD
+ :SW
+것:NNB
+이:VCP
+라는:ETD
+ :SW
+전망:NNG
+도:JX
+ :SW
+나오:VV
+고:ECE
+ :SW
+있:VV
+다:EFN
+.:SF
+ :SW
+동물:NNG
+병원:NNG
+도:JX
+ :SW
+노원구:NNP
+에서:JKM
+ :SW
+가장:MAG
+ :SW
+많:VA
+은:ETD
+ :SW
+16:NR
+개소:NNM
+가:JKS
+ :SW
+개원:NNG
+하:XSV
+고:ECE
+ :SW
+있:VV
+을:ETD
+ :SW
+정도:NNG
+로:JKM
+ :SW
+상:NNG
+계동:NNP
+에:JKM
+ :SW
+대한:NNG
+ :SW
+관심:NNG
+이:JKS
+ :SW
+높:VA
+은:ETD
+ :SW
+편이:NNG
+이:VCP
+다:EFN
+.:SF
+월계동:NNP
+은:JX
+ :SW
+석계:NNG
+역:NNG
+을:JKO
+ :SW
+중심:NNG
+으로:JKM
+ :SW
+상권:NNG
+과:JKM
+ :SW
+먹자:NNG
+골목:NNG
+이:JKS
+ :SW
+형성:NNG
+되:XSV
+어:ECS
+ :SW
+있:VV
+다:EFN
+.:SF
+ :SW
+광운:NNG
+대:NNG
+ :SW
+학생:NNG
+들:XSN
+도:JX
+ :SW
+석계:NNG
+역:NNG
+을:JKO
+ :SW
+많이:MAG
+ :SW
+찾:VA
+고:ECE
+ :SW
+있:VV
+어:ECD
+ :SW
+대학:NNG
+ :SW
+상권:NNG
+으로:JKM
+ :SW
+불리:VV
+고:ECE
+ :SW
+있:VV
+다:EFN
+.:SF
+월계동:NNP
+은:JX
+ :SW
+월계:NNG
+주공:NNG
+아파트:NNG
+,:SP
+ :SW
+롯데:NNP
+캐슬:UN
+,:SP
+ :SW
+쌍용:NNP
+스윗:UN
+닷:NNG
+홈:NNG
+,:SP
+ :SW
+동원:NNG
+베:NNG
+네스트:NNG
+ :SW
+등:NNB
+이:JKS
+ :SW
+몇:NR
+ :SW
+년:NNB
+간:NNG
+ :SW
+입주:NNG
+하:XSV
+면서:ECE
+ :SW
+노원구:NNP
+에서:JKM
+ :SW
+가장:MAG
+ :SW
+개발:NNG
+이:JKS
+ :SW
+빠르:VA
+게:ECD
+ :SW
+이루:VV
+어:ECS
+지:VXV
+고:ECE
+ :SW
+있:VV
+는:ETD
+ :SW
+지역:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+서울:NNG
+의:JKG
+ :SW
+대표적:NNG
+이:VCP
+ㄴ:ETD
+ :SW
+달:NNG
+동네:NNG
+ :SW
+중:NNG
+ :SW
+하나:NR
+인:NNG
+ :SW
+녹천:NNP
+마을:NNG
+의:JKG
+ :SW
+재:XPN
+건축:NNG
+도:JX
+ :SW
+진행:NNG
+되:XSV
+ㄹ:ETD
+ :SW
+예정:NNG
+이:VCP
+어서:ECD
+ :SW
+많:VA
+은:ETD
+ :SW
+변화:NNG
+가:JKS
+ :SW
+이루:VV
+어:ECS
+질:NNG
+ :SW
+전망:NNG
+이:VCP
+다:EFN
+.:SF
+지하철:NNG
+ :SW
+1:NR
+호:NNB
+선:NNG
+과:JC
+ :SW
+6:NR
+호:NNB
+선:NNG
+을:JKO
+ :SW
+이용:NNG
+하:XSV
+ㄹ:ETD
+ :SW
+수:NNG
+ :SW
+있:VV
+는:ETD
+ :SW
+석계:NNG
+역이:NNG
+ :SW
+개통:NNG
+되:XSV
+면서:ECE
+ :SW
+교통:NNG
+이:JKS
+ :SW
+좋아지:VV
+고:ECE
+ :SW
+있:VV
+으며:ECE
+,:SP
+ :SW
+초:XPN
+안산:NNG
+ :SW
+관:NNG
+통:NNG
+도로:NNG
+가:JKS
+ :SW
+개통:NNG
+되:XSV
+ㄴ:ETD
+ :SW
+이후:NNG
+에:JKM
+는:JX
+ :SW
+월계동:NNP
+ :SW
+내:NNB
+에:JKM
+서의:NNG
+ :SW
+이동도:NNG
+ :SW
+편리:NNG
+해지:VV
+었:EPT
+다:EFN
+.:SF
+ :SW
+월계동:NNP
+은:JX
+ :SW
+노원구:NNP
+ :SW
+내:NNB
+ :SW
+다른:MDT
+ :SW
+지역:NNG
+에:JKM
+ :SW
+비:NNG
+하:XSV
+어:ECS
+ :SW
+2016:NR
+년:NNB
+부터:JX
+ :SW
+입:NNG
+주:NNG
+를:JKO
+ :SW
+시작:NNG
+하:XSV
+ㄴ:ETD
+ :SW
+신규:NNG
+ :SW
+아파트:NNG
+들:XSN
+이:JKS
+ :SW
+늘어나:VV
+면서:ECE
+ :SW
+젊:VA
+은:ETD
+층:NNG
+이:JKS
+ :SW
+늘어나:VV
+고:ECE
+ :SW
+있:VV
+다:EFN
+.:SF
+ :SW
+다른:MDT
+ :SW
+지역:NNG
+에:JKM
+ :SW
+비:NNG
+하:XSV
+어:ECS
+ :SW
+평:NNM
+당:NNG
+ :SW
+아파트:NNG
+ :SW
+가격:NNG
+도:JX
+ :SW
+저렴:XR
+하:XSV
+어:ECS
+ :SW
+최근:NNG
+ :SW
+2:NR
+년:NNB
+간:NNG
+ :SW
+2:NR
+개:NNM
+소의:NNG
+ :SW
+동물:NNG
+병원:NNG
+이:JKS
+ :SW
+개원:NNG
+하:XSV
+었:EPT
+다:EFN
+.:SF
+ :SW
+노원구:NNP
+의:JKG
+ :SW
+다른:MDT
+ :SW
+지역:NNG
+에:JKM
+ :SW
+비:NNG
+하:XSV
+어:ECS
+ :SW
+동물:NNG
+병원:NNG
+ :SW
+수가:NNG
+ :SW
+많:VA
+지:ECD
+ :SW
+않:VXV
+으나:ECE
+ :SW
+90:NR
+년대:NNM
+ :SW
+개:NNG
+원한:NNG
+ :SW
+동물:NNG
+병원:NNG
+부터:JX
+ :SW
+최근:NNG
+ :SW
+개:NNG
+원한:NNG
+ :SW
+동물:NNG
+병원:NNG
+까지:JX
+ :SW
+신구:NNG
+ :SW
+병원:NNG
+이:JKS
+ :SW
+자연:NNG
+스럽:XSA
+게:ECD
+ :SW
+개원:NNG
+하:XSV
+고:ECE
+ :SW
+있:VV
+는:ETD
+ :SW
+지역:NNG
+이:JKS
+기도:NNG
+ :SW
+하다:NNP
+.:SF
+80:NR
+년대:NNM
+에:JKM
+ :SW
+입:NNG
+주한:NNG
+ :SW
+미:NNG
+륭:UN
+과:JKM
+ :SW
+미성:NNG
+,:SP
+ :SW
+삼호:NNP
+3:NR
+차:NNM
+ :SW
+등:NNB
+의:JKG
+ :SW
+재:XPN
+건축:NNG
+이:JKS
+ :SW
+추:NNG
+지:XSA
+ㄴ:ETD
+ :SW
+중:NNG
+에:JKM
+ :SW
+있:VV
+어:ECD
+ :SW
+10:NR
+년:NNB
+ :SW
+후:NNG
+를:JKO
+ :SW
+내다보:VV
+면:ECE
+ :SW
+좋:VA
+은:ETD
+ :SW
+개:NNG
+원지:NNG
+가:JKS
+ :SW
+되:VV
+ㄹ:ETD
+ :SW
+것:NNB
+ :SW
+같:VA
+다:EFN
+.:SF
+중계동:NNP
+은:JX
+ :SW
+강북:NNG
+의:JKG
+ :SW
+대치동:NNP
+으로:JKM
+ :SW
+불리:NNG
+는:JX
+ :SW
+은행:NNG
+ :SW
+사:NNG
+거리:NNG
+가:JKS
+ :SW
+위치:NNG
+하:XSV
+고:ECE
+ :SW
+있:VV
+는:ETD
+ :SW
+곳:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+사교육:NNG
+에:JKM
+ :SW
+관심:NNG
+ :SW
+있:VV
+는:ETD
+ :SW
+지역:NNG
+ :SW
+주민:NNG
+이:JKS
+ :SW
+많:VA
+아:ECD
+ :SW
+건물:NNG
+ :SW
+대부분:NNG
+이:JKS
+ :SW
+학원:NNG
+들:XSN
+로:NNG
+ :SW
+이루:VV
+어:ECS
+지:VXV
+었:EPT
+다:EFN
+.:SF
+ :SW
+학원:NNG
+주:NNG
+들:XSN
+이:JKS
+ :SW
+건물:NNG
+을:JKO
+ :SW
+구매:NNG
+하:XSV
+면서:ECE
+ :SW
+학원가:NNG
+를:JKO
+ :SW
+형성:NNG
+하:XSV
+었:EPT
+다는:ETD
+ :SW
+이야기:NNG
+도:JX
+ :SW
+있:VV
+다:EFN
+.:SF
+문제:NNG
+는:JX
+ :SW
+출산율:NNG
+이:JKS
+ :SW
+감소:NNG
+하:XSV
+면서:ECE
+ :SW
+은행:NNG
+사거리:NNG
+ :SW
+학원:NNG
+들:XSN
+의:JKG
+ :SW
+학생:NNG
+수가:NNG
+ :SW
+줄어들:VV
+고:ECE
+ :SW
+있:VV
+다는:ETD
+ :SW
+것:NNB
+이:VCP
+다:EFN
+.:SF
+ :SW
+중계:NNG
+주공:NNG
+5:NR
+단지:NNG
+와:JKM
+ :SW
+대림:NNP
+벽산:NNG
+,:SP
+ :SW
+롯데:NNP
+우성:NNG
+아파트:NNG
+ :SW
+등:NNB
+ :SW
+중계동:NNP
+ :SW
+아파트:NNG
+ :SW
+가격:NNG
+도:JX
+ :SW
+하락세:NNG
+를:JKO
+ :SW
+보이:VV
+고:ECE
+ :SW
+있:VV
+어:ECD
+ :SW
+인구:NNG
+ :SW
+감소:NNG
+가:JKS
+ :SW
+영향:NNG
+을:JKO
+ :SW
+미:NNG
+치고:JX
+ :SW
+있:VV
+는:ETD
+ :SW
+것:NNB
+으로:JKM
+ :SW
+보일:VV
+ㄴ다:EFN
+.:SF
+ :SW
+중계동:NNP
+은:JX
+ :SW
+유명:NNG
+ :SW
+학원:NNG
+들:XSN
+이:JKS
+ :SW
+지속적:NNG
+으로:JKM
+ :SW
+유입:NNG
+되:XSV
+면서:ECE
+ :SW
+노원구:NNP
+의:JKG
+ :SW
+다른:MDT
+ :SW
+아파트:NNG
+와:JKM
+ :SW
+달:NNG
+리:XSN
+ :SW
+아파트:NNG
+ :SW
+가격:NNG
+이:JKS
+ :SW
+지속적:NNG
+으로:JKM
+ :SW
+상승:NNG
+하:XSV
+었:EPT
+더:EPT
+ㄴ:ETD
+ :SW
+곳:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+교통:NNG
+ :SW
+여건:NNG
+이:JKS
+ :SW
+좋:VA
+지:ECD
+ :SW
+않:VXV
+았:EPT
+지만:ECE
+ :SW
+동북:NNG
+선:NNG
+ :SW
+경전철:NNG
+이:JKS
+ :SW
+개통:NNG
+되:XSV
+ㄹ:ETD
+ :SW
+예정:NNG
+이:VCP
+며:ECE
+,:SP
+ :SW
+광운:NNG
+대:NNG
+ :SW
+철도:NNG
+부지:NNG
+는:JX
+ :SW
+동북:NNG
+권:XSN
+ :SW
+랜드:NNG
+마크로:NNG
+ :SW
+개발:NNG
+이:JKS
+ :SW
+예정:NNG
+되:XSV
+어:ECS
+ :SW
+있:VV
+다:EFN
+.:SF
+ :SW
+중계동:NNP
+은:JX
+ :SW
+최근:NNG
+ :SW
+정부:NNG
+의:JKG
+ :SW
+규제:NNG
+에:JKM
+도:JX
+ :SW
+20:NR
+년:NNB
+ :SW
+넘:VV
+은:ETD
+ :SW
+아파트:NNG
+ :SW
+가격:NNG
+조차:JX
+ :SW
+크:VA
+ㄴ:ETD
+ :SW
+변화:NNG
+가:JKS
+ :SW
+없:VA
+을:ETD
+ :SW
+정도:NNG
+로:JKM
+ :SW
+관심:NNG
+을:JKO
+ :SW
+받:VV
+고:ECE
+ :SW
+있:VV
+는:ETD
+ :SW
+지역:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+동물:NNG
+병원:NNG
+은:JX
+ :SW
+2012:NR
+년:NNB
+ :SW
+이후:NNG
+로:JKM
+ :SW
+개원:NNG
+이:JKS
+ :SW
+없:VA
+다가:ECD
+ :SW
+지나:VV
+ㄴ:ETD
+ :SW
+해:NNG
+ :SW
+6:NR
+년:NNB
+만:NNB
+에:JKM
+ :SW
+개:NNG
+원한:NNG
+ :SW
+곳:NNG
+이:JKS
+ :SW
+있:VV
+을:ETD
+ :SW
+정도:NNG
+로:JKM
+ :SW
+관심:NNG
+이:JKS
+ :SW
+덜하:VA
+ㄴ:ETD
+ :SW
+지역:NNG
+이:JKS
+기도:NNG
+ :SW
+하다:NNP
+.:SF
+공릉동:NNP
+은:JX
+ :SW
+대:NNG
+단지:NNG
+ :SW
+아파트:NNG
+보다:JKM
+ :SW
+일반:NNG
+ :SW
+주거:NNG
+지역:NNG
+이:JKS
+ :SW
+많:VA
+다:EFN
+.:SF
+ :SW
+군사:NNG
+보호:NNG
+시설:NNG
+과:JKM
+ :SW
+유:NNG
+네스:NNP
+코:NNG
+ :SW
+세계:NNG
+문화:NNG
+유산:NNG
+,:SP
+ :SW
+자연:NNG
+보호:NNG
+구역:NNG
+ :SW
+등:NNB
+이:JKS
+ :SW
+밀:NNM
+집해:NNG
+ :SW
+있:VV
+어:ECD
+ :SW
+개발:NNG
+을:JKO
+ :SW
+하:VV
+ㄹ:ETD
+ :SW
+수:NNG
+ :SW
+없었:VV
+기:ETN
+ :SW
+때문:NNB
+이:VCP
+다:EFN
+.:SF
+ :SW
+2010:NR
+년:NNB
+부터:JX
+ :SW
+공릉동:NNP
+ :SW
+화랑:NNG
+대역:NNG
+ :SW
+인근:NNG
+에:JKM
+ :SW
+아파트:NNG
+ :SW
+입:NNG
+주가:NNG
+ :SW
+시작:NNG
+되:XSV
+었:EPT
+지만:ECE
+ :SW
+여전히:MAG
+ :SW
+노:NNG
+후:NNG
+ :SW
+되:VV
+ㄴ:ETD
+ :SW
+아파트:NNG
+가:JKS
+ :SW
+많:VA
+은:ETD
+ :SW
+지역:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+하계동:NNP
+은:JX
+ :SW
+노원구:NNP
+에서:JKM
+ :SW
+유일:NNG
+하:XSV
+게:ECD
+ :SW
+동물:NNG
+병원:NNG
+이:JKS
+ :SW
+전무:NNG
+하:XSV
+ㄴ:ETD
+ :SW
+지역:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+을지:NNP
+병원:NNG
+과:JKM
+ :SW
+세:NNG
+이브:NNG
+존:NNP
+ :SW
+등:NNB
+ :SW
+편의:NNG
+시설:NNG
+이:JKS
+ :SW
+있:VV
+지만:ECE
+ :SW
+불암산:NNP
+이:JKS
+ :SW
+있:VV
+어:ECD
+ :SW
+개발:NNG
+이:JKS
+ :SW
+더디:VV
+ㄴ:ETD
+ :SW
+지역:NNG
+이:JKS
+기도:NNG
+ :SW
+하다:NNP
+.:SF
+ :SW
+하지만:MAC
+ :SW
+중계동:NNP
+과:JKM
+ :SW
+더:MAG
+붇:VV
+어:ECD
+ :SW
+아파트:NNG
+ :SW
+단지:NNG
+ :SW
+비율:NNG
+이:JKS
+ :SW
+매우:MAG
+ :SW
+높:VA
+은:ETD
+ :SW
+지역:NNG
+이:VCP
+다:EFN
+.:SF
+ :SW
+특히:MAG
+ :SW
+하계:NNG
+2:NR
+동:NNM
+은:JX
+ :SW
+현대:NNG
+,:SP
+ :SW
+우성:NNG
+,:SP
+ :SW
+극동:NNG
+,:SP
+ :SW
+건영:NNP
+ :SW
+등:NNB
+ :SW
+1:NR
+만:NR
+여:NR
+ :SW
+세대:NNG
+가:JKS
+ :SW
+밀:NNM
+집해:NNG
+ :SW
+있:VV
+다:EFN
+.:SF
+ :SW
+그러나:MAC
+ :SW
+하계동:NNP
+은:JX
+ :SW
+먹자:NNG
+골목:NNG
+ :SW
+외:NNB
+에:JKM
+ :SW
+상가:NNG
+가:JKS
+ :SW
+거의:MAG
+ :SW
+없:VA
+어:ECD
+ :SW
+개:NNG
+원하:VV
+ㄹ:ETD
+ :SW
+곳:NNG
+이:JKS
+ :SW
+많:VA
+지:ECD
+ :SW
+않:MAG
+은:JX
+ :SW
+지역:NNG
+이:VCP
+다:EFN
+.:SF
+수의사:NNG
+신문:NNG
+데일리:NNG
+개원:NNG
+www:OL
+.:SF
+dailygaewon:OL
+.:SF
+com:OL
+▶:SW
+수의사:NNG
+신문:NNG
+<:SS
+데:NNB
+일:NR
+리:NNM
+개원:NNG
+>:SS
+타블로:NNG
+이드:NNG
+판:NNG
+종이:NNG
+신문:NNG
+으로:JKM
+격주:NNG
+월:NNG
+2:NR
+회:NNM
+만부:NNG
+발송:NNG
+되:XSV
+ㅂ니다:EFN
+.:SF
+■:SW
+구독:NNG
+신청:NNG
+및:MAG
+광고:NNG
+문의:NNG
+■:SW
+www:OL
+.:SF
+dailygaewon:OL
+.:SF
+com:OL
+▶:SW
+반려:NNG
+동물:NNG
+체험:NNG
+단:NNG
+<:SS
+애:NNG
+니:JC
+멀:VA
+ㄹ:ETD
+닥터:NNG
+>:SS
+www:OL
+.:SF
+animaldoctor:OL
+.:SF
+co:OL
+.:SF
+kr:OL
